@@ -19,3 +19,7 @@ const doSomething3 = () => {
 const doAnything = () => {
     console.log('do anything')
 }
+
+const doAnything2 = () => {
+    console.log('do anything2')
+}
