@@ -23,3 +23,7 @@ const doAnything = () => {
 const doAnything2 = () => {
     console.log('do anything2')
 }
+
+const doAnything3 = () => {
+    console.log('do anything3')
+}
