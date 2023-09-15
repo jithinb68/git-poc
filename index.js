@@ -7,3 +7,7 @@ const doNothing = () => {
 const doEverything1 = () => {
     console.log('do everything 1')
 }
+
+const doEverything2 = () => {
+    console.log('do everything 2')
+}
