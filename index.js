@@ -4,7 +4,7 @@ const doNothing = () => {
     console.log('do nothing')
 }
 
-const doSomething1 = () => {
+const doSomething11 = () => {
     console.log('do something 1')
 }
 
