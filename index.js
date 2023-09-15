@@ -15,3 +15,7 @@ const doSomething2 = () => {
 const doSomething3 = () => {
     console.log('do something 2')
 }
+
+const doAnything = () => {
+    console.log('do anything')
+}
